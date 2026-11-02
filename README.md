@@ -1,3 +1,4 @@
+<img src="koi/koi.gif" width="256" alt="My koi" />
 # NeetCode Solutions — @Pasupatirajesh
 
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
